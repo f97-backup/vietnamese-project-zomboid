@@ -1,0 +1,74 @@
+﻿Challenge_EN = {
+    Challenge_YouHaveOneDay_name = " Bạn có một ngày",
+	Challenge_YouHaveOneDay_desc = "Bạn trở lại thành phố Knox.Nơi bị lây nhiễm virus zombie đầu tiên. <LINE> <LINE>Bạn sẽ có một ngày. zombie sẽ càng ngày đông hơn, và chúng sẻ tìm thấy bạn. Bạn phải sinh tồn đến cuối cùng . cố lên . <LINE> <LINE> [Cảm ơn người lập bản đồ cộng đồng BobHeckling đã tạo lại bản đồ 0.1.5 cũ với bộ công cụ PZ hiện tại.]",
+
+    Challenge_WinterIsComing_name = " Mùa đông đang đến",
+	Challenge_WinterIsComing_desc = "Đó là vào giữa tháng 7, nhưng đột nhiên những cơn gió lạnh kéo đến, trong thời gian vỏn vẹn ba ngày mùa đông sẽ đến <LINE> <LINE> Bạn sẽ thức dậy trong 1 ngôi nhà cách xa thành phố, với nguồn cung cấp ít ỏi, zombie sẽ bị chậm lại(thực ra không có chậm đâu)nhưng vẫn rất nguy hiểm. <LINE> <LINE> hãy tìm một nơi ấm áp và sinh tồn với zombie",
+
+	Challenge_OpeningHours_name = " Giờ mở cửa",
+    Challenge_OpeningHours_desc = "Trung tâm mua sắm đã bị bao quanh bởi zombie <br><br> Bạn có một mình nhưng không lâu đâu, vào lúc 9h00 cửa sẻ mở ra và những đám zombie sẽ tham gia<LINE> <LINE> Hãy sẳn sàng.",
+
+	Challenge_AReallyCDDAy_name = " Cháy",
+	Challenge_AReallyCDDAy_desc = "Bạn ra khỏi phong tắm, bạn đang đứng trong căn phòng đang cháy<LINE> <LINE> Hôm nay chắc là ngày khắm lọ của bạn <LINE> <LINE> [Một cảm hứng đầy thử thách của A Day] ",
+
+	Challenge_Challenge1_name = " Ngôi nhà trong rừng - Chỗ đứng cuối cùng",
+	Challenge_Challenge1_desc = "Bạn có thể nghe thấy tiếng bọn chúng đến. Đám zombie đang bao quanh ngôi nhà của bạn, cái chết đang cận kề với bạn,nhưng bạn đang có một khẩu Shotgun trên tay(thực ra éo có trên tay đâu). <LINE> <LINE> Càng ngày zombie càng đến đông, hay sống sót lâu nhất có thể",
+
+	Challenge_Challenge2_name = " Ngôi nhà trong rừng hoặc ngôi nhà kì lạ ",
+	Challenge_Challenge2_desc = "Một ngày khác, một ngôi nhà bị cô lập, cái chết của bạn sẽ rất đau đớn vì vậy hãy đi ra và chiến đấu<LINE> <LINE> Sử dụng tiền kiếm được để mua và nâng cấp trang bị.",
+
+    Challenge_AStormIsComing_name = " Một cơn bão đang đến",
+	Challenge_AStormIsComing_desc = "Mây đang tụ ở Kentucky. Có thể nghe thấy tiếng nổ lách tách ở phía xa. <LINE> <LINE> Khi bầu trời tối dần, người chết nằm trên đất sẽ trỗi dậy. <LINE> <LINE> Đây sẽ là một cơn bão sẽ lớn lên và  dữ dội , nhưng nó sẽ không bao giờ kết thúc.",
+
+    Challenge_TheDescendingFog_name = " Ác mộng Sương mù ",
+    Challenge_TheDescendingFog_desc = "Mọi người lần đầu tiên nhìn thấy nó trên mặt nước. một cái gì đó nổi trên sông Ohio(sông có thật). <LINE> <LINE> Nó bắt đầu xuất hiện những làn sương mù sương mù. Sau đó, nó bao trùm thị trấn. những Người dân trong thị trấn bắt đầu la hét và chết khi ở trong sương mù và họ bước ra khỏi đó. <LINE> <LINE> không nhìn thấy, không nghe thấy và không ngừng theo đuổi sự sống.",
+
+    Challenge_Kingsmouth_name = " Kingsmouth",
+    Challenge_Kingsmouth_desc = "Tận hưởng kỳ nghỉ thư giãn trên Đảo Kingsmouth( toàn zombie không , vãi cả thư giản )!",
+
+    Challenge_Studio_name = " Studio",
+    Challenge_Studio_desc = "Nơi quay tất cả những bộ phim hay nhất!",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "Nhấn O để kiểm tra chi tiết số tiền.",
+	Challenge_Challenge2_WaveStart = "Ván %1 Trong : %2 (Nhấn Enter để bỏ qua)",
+	Challenge_Challenge2_WaveDuration = "Ván %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "Zombie trái : %1",
+	Challenge_Challenge2_Money = "Tiền : %1",
+	Challenge_Challenge2_Money2 = "Người chơi %1 Tiền : %2",
+	Challenge_Challenge2_WaveFinished = "Ván %1 Hoàn thành trong : %2",
+	Challenge_Challenge2_MoneyGained = "tiền thu được : %1",
+	Challenge_Challenge2_XPGained = "Kinh nghiệm kiếm được : %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "Cuối cùng",
+	Challenge_Challenge2_TabPlayer = "Người chơi",
+	Challenge_Challenge2_Weapons = "Vũ khí",
+	Challenge_Challenge2_TabItems = "Trang bị",
+	Challenge_Challenge2_TabRepair = "Sữa chữa",
+	Challenge_Challenge2_CurrentXp = "XP : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP"
+	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
+	Challenge_Challenge2_GoldBonus = "Thêm vàng",
+	Challenge_Challenge2_XpBonus = "Thêm XP",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 Max",
+	Challenge_Challenge2_ButtonStartGold = "+%1 Starting Gold - %2 XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "Max Starting Gold %1",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Kỹ năng",
+	Challenge_Challenge2_PermanentBonus = "Tiền thưởng vĩnh viễn",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "Thợ mộc",
+	Challenge_Challenge2_Health = "Sức khỏe",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "Sữa chữa vũ khí",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "Sức khỏe",
+
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Trung tâm mua sẵm sẽ mở của lúc 9 giờ. <LINE> <LINE> Hãy sẵn sàng...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Trong ba ngày mùa đông bất tận sẽ bắt đầu.. <LINE> <LINE> Hãy mặc ấm và sống sót...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Trong 24 giờ, chuyến đi trở lại thành phố Knox của bạn sẽ rất gian nan, hãy sống sót .",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Thời tiết xấu này sẽ kéo dài vô tận, chúc bạn may mắn sống sốt ...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Những thứ trong sương mù đã bắt đầu xuất hiện , chúc bạn sống sót khi không thấy gì ",
+}
